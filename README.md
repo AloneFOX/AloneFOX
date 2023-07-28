@@ -15,7 +15,7 @@
  
 <div> 
   
-  <a href="https://twitter.com/ALONEF0XX" target="_blank"><img src="https://img.shields.io/twitter/follow/:user" target="_blank"></a>
+  <a href="https://twitter.com/ALONEF0XX" target="_blank"><img src="https://img.shields.io/twitter/url" target="_blank"></a>
   <a href="https://www.instagram.com/alonef0xx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/kDnq75yu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vitorparasiohenriques@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
